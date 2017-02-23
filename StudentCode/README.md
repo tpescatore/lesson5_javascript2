@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(02 23, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Thomas Pescatore)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment is to help us get more familiar using javascript in html. We learned new functions.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://tpescatore.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Use a command block to construct a decisionmaking structure containing multiple statements)
+2. (Switch statements controls program flow by executing a specific set of statements)
+3. (An Array is a set of data represented by a single variable name)
